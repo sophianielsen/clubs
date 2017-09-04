@@ -1,4 +1,4 @@
-# Cryptography Club
+# Hackers and Cybersecurity Kids of Olin (HACK Olin)
 *Last modified 2015-09-07*
 ## Purpose
 The goal of cryptography club is to get interested Olin students involved in the important fields of cryptography and cyber security. Main events will involve participating in capture the flag competitions and learning about security and cryptography.
